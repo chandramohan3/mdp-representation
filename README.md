@@ -39,8 +39,9 @@ Moving Right
 
 ## PYTHON REPRESENTATION:
 ```
-# Developed by: DHANUMALYA D
-# Register Number: 212222230030
+Developed by: CHANDRAMOHAN S
+Register Number: 212221223002
+
 P = {
     0:{
         0: [(1.0,0,0.0,True)],
